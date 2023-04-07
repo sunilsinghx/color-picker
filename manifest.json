@@ -1,0 +1,14 @@
+{
+    "manifest_version":3,
+    "name":"Color Picker",
+    "description" :"A simple tool that can detect color on screen and can display its hex value",
+    "version":"1.0",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":
+    {
+        "32":"icons/icon32.png"
+
+    }
+}
